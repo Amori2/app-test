@@ -1,9 +1,9 @@
 plugins { id 'com.android.application' }
 android {
-  namespace 'com.studio.appfactory'
+  namespace 'com.studio.tes5'
   compileSdk 34
   defaultConfig {
-    applicationId "com.studio.appfactory"
+    applicationId "com.studio.tes5"
     minSdk 23
     targetSdk 34
     versionCode 1
